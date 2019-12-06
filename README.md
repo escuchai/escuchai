@@ -8,10 +8,10 @@ En este primer episodio Simón y Diego conversan sobre Inteligencia Artificial. 
 
 Recomendaciones:
 
-- Video de Tesla - www.youtube.com/watch?v=tlThdr3O5Qo
-- Generador de frases de OpenAI - https://openai.com/blog/better-language-models/
-- Aritifical Neruda - https://twitter.com/nerudartificial
-- Libro Inteligencia Artificial un enfoque moderno - aima.cs.berkeley.edu/
-- Julia - https://julialang.org/downloads/
-- Flux - https://github.com/FluxML/Flux.jl
-- El pavo inductivista - https://es.wikipedia.org/wiki/Pavo_inductivista
+- [Video de Tesla](www.youtube.com/watch?v=tlThdr3O5Qo) mencionado en el episodio
+- [Generador de frases de OpenAI](https://openai.com/blog/better-language-models/)
+- [Aritifical Neruda](https://twitter.com/nerudartificial)
+- Libro [Inteligencia Artificial un enfoque moderno](https://aima.cs.berkeley.edu/)
+- Lenguaje de programación [Julia](https://julialang.org/downloads/)
+- Librería [Flux](https://github.com/FluxML/Flux.jl) para redes neuronales en Julia.
+- [El pavo inductivista](https://es.wikipedia.org/wiki/Pavo_inductivista)
