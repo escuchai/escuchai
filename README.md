@@ -1,6 +1,8 @@
 # EscuchAI - Podcast sobre Inteligencia Artificial
 
-Agradecimientos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EsuchAI.
+## Agradecimientos
+
+Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EscuchAI.
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
 
