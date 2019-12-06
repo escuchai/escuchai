@@ -2,7 +2,7 @@
 
 Agradecimientos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EsuchAI.
 
-![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="36px" width="36px"}
+![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
 
 ## Episodio #07 - IA Explicable y actualidad en Big Data
 
