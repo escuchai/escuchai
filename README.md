@@ -1,8 +1,12 @@
 # EscuchAI - Podcast sobre Inteligencia Artificial
 
+Agradecimientos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EsuchAI.
+
+![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png)
+
 ## Episodio #07 - IA Explicable y actualidad en Big Data
 
-En este episodio Diego y Simón nos hablan de la Inteligencia Artificial Explicable, qué es y por qué es importante. Además, Diego, nuestro experto en Data Science nos pone al día con los últimos acontecimientos en el mundo del Big Data.
+En este episodio [Diego](https://twitter.com/darenasc) y [Simón]((https://twitter.com/artificialsimon) nos hablan de la Inteligencia Artificial Explicable, qué es y por qué es importante. Además, Diego, nuestro experto en Data Science nos pone al día con los últimos acontecimientos en el mundo del Big Data.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/706137466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -37,7 +41,7 @@ En este capítulo Diego y Simón nos cuentan sobre deep leaerning, qué es y cua
 ### Recomendaciones
 - [GTP-2 de OpenAI](https://openai.com/blog/better-language-models/)
 - [Charla de Geoff Hinton](https://youtu.be/re-SRA5UZQw?t=292)
-- [The Book of WHY de Judea Pearl] (https://bayes.cs.ucla.edu/WHY/) de Judea Pearl
+- [The Book of WHY de Judea Pearl](https://bayes.cs.ucla.edu/WHY/) de Judea Pearl
 - Biblioteca [Keras](https://keras.io) para redes neuronales
 
 ## Episodio #04 - Ciencia de datos y Data for Good
