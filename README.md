@@ -1,5 +1,15 @@
 # EscuchAI - Podcast sobre Inteligencia Artificial
 
+## Lista de Episodios
+
+- [Episodio #07 - IA Explicable y actualidad en Big Data](#episodio-07---ia-explicable-y-actualidad-en-big-data)
+- [Episodio #06 - Robótica y la robot Sophia](#episodio-06---robótica-y-la-robot-sophia)
+- [Episodio #05 - Deep Learning y Alan Turing](#episodio-05---deep-learning-y-alan-turing)
+- [Episodio #04 - Ciencia de datos y Data for Good](#episodio-04---ciencia-de-datos-y-data-for-good)
+- [Episodio #03 - Redes Neuronales](#episodio-03---redes-neuronales)
+- [Episodio #02 - Tipos de Aprendizaje](#episodio-02---tipos-de-aprendizaje)
+- [Episodio #01 - Qué es Inteligencia Artificial?](#episodio-01---qué-es-inteligencia-artificial-)
+
 ## Agradecimientos
 
 Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EscuchAI.
