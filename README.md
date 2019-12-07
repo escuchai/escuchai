@@ -8,7 +8,7 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ## Episodio #07 - IA Explicable y actualidad en Big Data
 
-En este episodio [Diego](https://twitter.com/darenasc) y [Simón]((https://twitter.com/artificialsimon) nos hablan de la Inteligencia Artificial Explicable, qué es y por qué es importante. Además, Diego, nuestro experto en Data Science nos pone al día con los últimos acontecimientos en el mundo del Big Data.
+En este episodio [Diego](https://twitter.com/darenasc) y [Simón](https://twitter.com/artificialsimon) nos hablan de la Inteligencia Artificial Explicable, qué es y por qué es importante. Además, Diego, nuestro experto en Data Science nos pone al día con los últimos acontecimientos en el mundo del Big Data.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/706137466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -22,7 +22,7 @@ En este episodio [Diego](https://twitter.com/darenasc) y [Simón]((https://twitt
 
 ## Episodio #06 - Robótica y la robot Sophia
 
-En este capítulo Diego y Simón nos hablan de robótica y de la famosa robot Sofía ¿estarán ellos de acuerdo con que se le haya dado nacionalidad?
+En este capítulo [Diego](https://twitter.com/darenasc) y [Simón](https://twitter.com/artificialsimon) nos hablan de robótica y de la famosa robot Sofía ¿estarán ellos de acuerdo con que se le haya dado nacionalidad?
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/688135039&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -36,7 +36,7 @@ En este capítulo Diego y Simón nos hablan de robótica y de la famosa robot So
 
 ## Episodio #05 - Deep Learning y Alan Turing
 
-En este capítulo Diego y Simón nos cuentan sobre deep leaerning, qué es y cuales han sido sus mayores ventajas. Además comentan sobre la vida de Alan Turing como científico de la computación y a su aparición en los billetes de 50 libras en Reino Unido.
+En este capítulo [Diego](https://twitter.com/darenasc) y [Simón](https://twitter.com/artificialsimon) nos cuentan sobre deep leaerning, qué es y cuales han sido sus mayores ventajas. Además comentan sobre la vida de Alan Turing como científico de la computación y a su aparición en los billetes de 50 libras en Reino Unido.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/662136158&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -48,7 +48,7 @@ En este capítulo Diego y Simón nos cuentan sobre deep leaerning, qué es y cua
 
 ## Episodio #04 - Ciencia de datos y Data for Good
 
-En este episodio Diego y Simón nos cuentas de qué se trata la Ciencia de Datos. También hablaremos sobre Data for good, una positiva iniciativa que busca usar técnicas de data science para ayudar a la humanidad.
+En este episodio [Diego](https://twitter.com/darenasc) y [Simón](https://twitter.com/artificialsimon) nos cuentas de qué se trata la Ciencia de Datos. También hablaremos sobre Data for good, una positiva iniciativa que busca usar técnicas de data science para ayudar a la humanidad.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/649124909&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -61,7 +61,7 @@ En este episodio Diego y Simón nos cuentas de qué se trata la Ciencia de Datos
 
 ## Episodio #03 - Redes Neuronales
 
-En este capítulo Diego y Simón nos hablan sobre redes neuronales. Nos cuentan de los éxitos más actuales de estas redes, como están hechas y cuáles son los tipos más usados. También conversan sobre la teoría del ticket de lotería.
+En este capítulo [Diego](https://twitter.com/darenasc) y [Simón](https://twitter.com/artificialsimon) nos hablan sobre redes neuronales. Nos cuentan de los éxitos más actuales de estas redes, como están hechas y cuáles son los tipos más usados. También conversan sobre la teoría del ticket de lotería.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/634776459&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -75,7 +75,7 @@ En este capítulo Diego y Simón nos hablan sobre redes neuronales. Nos cuentan 
 
 ## Episodio #02 - Tipos de Aprendizaje
 
-En este episodio Simón y Diego conversan sobre los distintos tipos de aprendizaje usados en Inteligencia Artificial. Cuál es la diferencia entre Machine Learning e Inteligencia Artificial? Presentación del podcast, qué es IA?, planificación versus aprendizaje, ejemplos de tipos de aprendizajes, recomendaciones de libro y biblioteca para IA, y más.
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan sobre los distintos tipos de aprendizaje usados en Inteligencia Artificial. Cuál es la diferencia entre Machine Learning e Inteligencia Artificial? Presentación del podcast, qué es IA?, planificación versus aprendizaje, ejemplos de tipos de aprendizajes, recomendaciones de libro y biblioteca para IA, y más.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/623755683&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -88,7 +88,7 @@ En este episodio Simón y Diego conversan sobre los distintos tipos de aprendiza
 
 ## Episodio #01 - Qué es Inteligencia Artificial?
 
-En este primer episodio Simón y Diego conversan sobre Inteligencia Artificial. Presentación del podcast, qué es IA?, un poco de historia, aplicaciones de IA, campos de estudio, recomendaciones de libro y biblioteca para IA, y más.
+En este primer episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan sobre Inteligencia Artificial. Presentación del podcast, qué es IA?, un poco de historia, aplicaciones de IA, campos de estudio, recomendaciones de libro y biblioteca para IA, y más.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619521639&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
