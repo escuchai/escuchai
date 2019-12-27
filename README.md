@@ -16,6 +16,18 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
 
+## Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA
+
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan sobre Aprendizaje Supervisado mencionando los conceptos relevantes y los pasos necesarios para entrenar un modelos y todas las consideraciones a tener. Simón comenta sobre algunos ejemplos de uso nocivo de Inteligencia Artificial.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/734601751&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+### Recomendaciones
+
+- [Página web `escuchAI`](https://escuchai.github.io/escuchai)
+- Blog/Mailing list de noticias de AI [import AI](https://jack-clark.net/)
+- [OpenML](https://www.openml.org)
+
 ## Episodio #07 - IA Explicable y actualidad en Big Data
 
 En este episodio [Diego](https://twitter.com/darenasc) y [Simón](https://twitter.com/artificialsimon) nos hablan de la Inteligencia Artificial Explicable, qué es y por qué es importante. Además, Diego, nuestro experto en Data Science nos pone al día con los últimos acontecimientos en el mundo del Big Data.
