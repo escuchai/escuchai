@@ -20,9 +20,10 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ## Episodio #09 - Biomedical Data Science con Catalina Vallejos
 
-En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con [Catalina Vallejos](https://www.ed.ac.uk/mrc-human-genetics-unit/research/vallejos-group) sobre Biomedical Data Science. Descubre qué es, quiénes conforman los equipos y cómo puede beneficiarnos la intersección entre Estadística, Biología, y Medicina.
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con [Catalina Vallejos](https://www.ed.ac.uk/mrc-human-genetics-unit/research/vallejos-group) sobre Biomedical Data Science. Catalina es doctora en estadística de la Universidad de Warwick y lidera un grupo de investigación trabajando en la intersección de temas de estadística, biología y ciencias médicas. Descubre qué es Biomedical Data Science, quiénes trabajan en esto y cómo puede beneficiarnos la investigación aplicada a la cuidado de la salud.
 
 ## Recomendaciones y recursos mencionados en el episodio
+
 - [Human Cell Atlas](https://www.humancellatlas.org)
 - [Bioconductor](https://www.bioconductor.org)
 - [Cross-disciplanary Fellowship Training Resources](https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources). Tutoriales, libros, cursos y otros recursos educacionales.
