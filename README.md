@@ -10,7 +10,7 @@
 - [Episodio #04 - Ciencia de datos y Data for Good](#episodio-04---ciencia-de-datos-y-data-for-good)
 - [Episodio #03 - Redes Neuronales](#episodio-03---redes-neuronales)
 - [Episodio #02 - Tipos de Aprendizaje](#episodio-02---tipos-de-aprendizaje)
-- [Episodio #01 - Qué es Inteligencia Artificial?](#episodio-01---qué-es-inteligencia-artificial-)
+- [Episodio #01 - Qué es Inteligencia Artificial?](#episodio-01---qué-es-inteligencia-artificial?)
 
 ## Agradecimientos
 
