@@ -2,8 +2,8 @@
 
 ## Lista de Episodios
 
-- [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-#09---biomedical-data-science-con-catalina-vallejos)
-- [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-#08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
+- [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-09---biomedical-data-science-con-catalina-vallejos)
+- [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
 - [Episodio #07 - IA Explicable y actualidad en Big Data](#episodio-07---ia-explicable-y-actualidad-en-big-data)
 - [Episodio #06 - Robótica y la robot Sophia](#episodio-06---robótica-y-la-robot-sophia)
 - [Episodio #05 - Deep Learning y Alan Turing](#episodio-05---deep-learning-y-alan-turing)
