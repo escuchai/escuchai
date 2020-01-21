@@ -26,6 +26,7 @@ En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https:/
 
 ## Recomendaciones y recursos mencionados en el episodio
 
+- Cuenta de twitter de [@CataVallejosM](https://twitter.com/CataVallejosM)
 - [Human Cell Atlas](https://www.humancellatlas.org)
 - [Bioconductor](https://www.bioconductor.org)
 - [Cross-disciplanary Fellowship Training Resources](https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources). Tutoriales, libros, cursos y otros recursos educacionales.
