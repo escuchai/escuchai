@@ -2,6 +2,7 @@
 
 ## Lista de Episodios
 
+- [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-#09---biomedical-data-science-con-catalina-vallejos)
 - [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-#08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
 - [Episodio #07 - IA Explicable y actualidad en Big Data](#episodio-07---ia-explicable-y-actualidad-en-big-data)
 - [Episodio #06 - Robótica y la robot Sophia](#episodio-06---robótica-y-la-robot-sophia)
@@ -16,6 +17,21 @@
 Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EscuchAI.
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
+
+## Episodio #09 - Biomedical Data Science con Catalina Vallejos
+
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con [Catalina Vallejos](https://www.ed.ac.uk/mrc-human-genetics-unit/research/vallejos-group) sobre Biomedical Data Science. Catalina es doctora en estadística de la Universidad de Warwick y lidera un grupo de investigación trabajando en la intersección de temas de estadística, biología y ciencias médicas. Descubre qué es Biomedical Data Science, quiénes trabajan en esto y cómo puede beneficiarnos la investigación aplicada a la cuidado de la salud.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746994850&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+## Recomendaciones y recursos mencionados en el episodio
+
+- [Human Cell Atlas](https://www.humancellatlas.org)
+- [Bioconductor](https://www.bioconductor.org)
+- [Cross-disciplanary Fellowship Training Resources](https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources). Tutoriales, libros, cursos y otros recursos educacionales.
+- [PyTorch](https://pytorch.org)
+- [Curso sobre Data Science y Healthcare](https://www.coursera.org/learn/datascimed)
+- [Deep Learning Tool-kit](https://github.com/DLTK/DLTK). Biblioteca open source para análisis de imágenes en medicina.
 
 ## Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA
 
