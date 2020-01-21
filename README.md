@@ -22,6 +22,8 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con [Catalina Vallejos](https://www.ed.ac.uk/mrc-human-genetics-unit/research/vallejos-group) sobre Biomedical Data Science. Catalina es doctora en estadística de la Universidad de Warwick y lidera un grupo de investigación trabajando en la intersección de temas de estadística, biología y ciencias médicas. Descubre qué es Biomedical Data Science, quiénes trabajan en esto y cómo puede beneficiarnos la investigación aplicada a la cuidado de la salud.
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746994850&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 ## Recomendaciones y recursos mencionados en el episodio
 
 - [Human Cell Atlas](https://www.humancellatlas.org)
