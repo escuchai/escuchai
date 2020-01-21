@@ -2,6 +2,7 @@
 
 ## Lista de Episodios
 
+- [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-#09---biomedical-data-science-con-catalina-vallejos)
 - [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-#08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
 - [Episodio #07 - IA Explicable y actualidad en Big Data](#episodio-07---ia-explicable-y-actualidad-en-big-data)
 - [Episodio #06 - Robótica y la robot Sophia](#episodio-06---robótica-y-la-robot-sophia)
@@ -16,6 +17,18 @@
 Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EscuchAI.
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
+
+## Episodio #09 - Biomedical Data Science con Catalina Vallejos
+
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con [Catalina Vallejos](https://www.ed.ac.uk/mrc-human-genetics-unit/research/vallejos-group) sobre Biomedical Data Science. Descubre qué es, quiénes conforman los equipos y cómo puede beneficiarnos la intersección entre Estadística, Biología, y Medicina.
+
+## Recomendaciones y recursos mencionados en el episodio
+- [Human Cell Atlas](https://www.humancellatlas.org)
+- [Bioconductor](https://www.bioconductor.org)
+- [Cross-disciplanary Fellowship Training Resources](https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources). Tutoriales, libros, cursos y otros recursos educacionales.
+- [PyTorch](https://pytorch.org)
+- [Curso sobre Data Science y Healthcare](https://www.coursera.org/learn/datascimed)
+- [Deep Learning Tool-kit](https://github.com/DLTK/DLTK). Biblioteca open source para análisis de imágenes en medicina.
 
 ## Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA
 
