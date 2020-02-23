@@ -2,6 +2,7 @@
 
 ## Lista de Episodios
 
+- [Episodio #10 - Especial sobre Inteligencia Artificial en el Cine](#episodio-10---especial-sobre-inteligencial-artificial-en-el-cine)
 - [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-09---biomedical-data-science-con-catalina-vallejos)
 - [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
 - [Episodio #07 - IA Explicable y actualidad en Big Data](#episodio-07---ia-explicable-y-actualidad-en-big-data)
