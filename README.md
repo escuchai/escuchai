@@ -18,6 +18,24 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
 
+## Episodio #10 - Especial sobre Inteligencia Artificial en el Cine
+
+En este episodio especial [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) comentan películas sobre Inteligencias Artificiales y comentan qué es lo que hace interesantes a estas películas. 
+
+* [2001 Odisea del espacio](www.imdb.com/title/tt0062622)
+* [Ex-machina](www.imdb.com/title/tt0470752)
+* [A.I. Artificial Intelligence](www.imdb.com/title/tt0212720)
+* [Autómata](https://www.imdb.com/title/tt1971325/)
+* [Blade Runner](www.imdb.com/title/tt0083658)
+* [Trascendence](www.imdb.com/title/tt2209764)
+* [Her](www.imdb.com/title/tt1798709)
+* [Avengers, la era de Ultrón](www.imdb.com/title/tt2395427)
+* [El Mago de Oz](www.imdb.com/title/tt0032138)
+* [Person of Interest](www.imdb.com/title/tt1839578)
+
+Qué otra película recomendarías? Coméntanos en [@escuchai](https://twitter.com/escuchAI).
+
+
 ## Episodio #09 - Biomedical Data Science con Catalina Vallejos
 
 En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con [Catalina Vallejos](https://www.ed.ac.uk/mrc-human-genetics-unit/research/vallejos-group) sobre Biomedical Data Science. Catalina es doctora en estadística de la Universidad de Warwick y lidera un grupo de investigación trabajando en la intersección de temas de estadística, biología y ciencias médicas. Descubre qué es Biomedical Data Science, quiénes trabajan en esto y cómo puede beneficiarnos la investigación aplicada a la cuidado de la salud.
