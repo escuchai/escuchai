@@ -1,5 +1,7 @@
 # EscuchAI - Podcast sobre Inteligencia Artificial
 
+[![](files/spotify-podcast-badge-blk-grn-660x160.svg)](https://open.spotify.com/show/3TL2aujg5UsRD69tnTbtbj)
+
 ## Lista de Episodios
 
 - [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-09---biomedical-data-science-con-catalina-vallejos)
