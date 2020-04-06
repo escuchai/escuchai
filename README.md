@@ -23,7 +23,7 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ## Episodio #10 - Conversación con Ricardo Baeza-Yates
 
-En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con el [Dr. Ricardo Baeza-Yates](https://twitter.com/polarbearby), experto en Ciencias de Datos y autor del libro más citado en Recuperación de la Información "Modern Information Retrieval".
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con el [Dr. Ricardo Baeza-Yates](https://twitter.com/polarbearby), experto en ciencia de datos y autor del libro más citado en Recuperación de la Información "Modern Information Retrieval".
 
 Conversamos sobre variados e interesantes temas como la evolución de la Ciencia de Datos en el tiempo, sobre sistemas justos en recomendación, Ricardo nos cuenta cómo se gestó la publicación del libro [Modern Information Retrieval](https://www.amazon.co.uk/Modern-Information-Retrieval-Concepts-Technology/dp/0321416910), sobre sesgos en los algoritmos, la importancia de aprender a aprender en el desarrollo profesional, sobre cómo hacer investigación de punta, la relevancia del pensamiento crítico para innovar, sobre ética en el trabajo con datos, y sobre estrategias nacionales de inteligencia artificial entre otros temas.
 
