@@ -4,6 +4,7 @@
 
 ## Lista de Episodios
 
+- [Episodio #10 - Conversación con Ricardo Baeza-Yates, experto mundial en Ciencia de Datos](#episodio-10---conversación-con-ricardo-baeza-yates,-experto-mundial-en-ciencia-de-datos)
 - [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-09---biomedical-data-science-con-catalina-vallejos)
 - [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
 - [Episodio #07 - IA Explicable y actualidad en Big Data](#episodio-07---ia-explicable-y-actualidad-en-big-data)
@@ -20,13 +21,28 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
 
+## Episodio #10 - Conversación con Ricardo Baeza-Yates, experto mundial en ciencia de datos 
+
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con el [Dr. Ricardo Baeza-Yates](https://twitter.com/polarbearby), experto en Ciencias de Datos y autor del libro más citado en Recuperación de la Información "Modern Information Retrieval".
+
+Conversamos sobre variados e interesantes temas como la evolución de la Ciencia de Datos en el tiempo, sobre sistemas justos en recomendación, Ricardo nos cuenta cómo se gestó la publicación del libro [Modern Information Retrieval](https://www.amazon.co.uk/Modern-Information-Retrieval-Concepts-Technology/dp/0321416910), sobre sesgos en los algoritmos, la importancia de aprender a aprender en el desarrollo profesional, sobre cómo hacer investigación de punta, la relevancia del pensamiento crítico para innovar, sobre ética en el trabajo con datos, y sobre estrategias nacionales de inteligencia artificial entre otros temas.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/792096874%3Fsecret_token%3Ds-6I3pLGT5qLo&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+### Recomendaciones y recursos mencionados en el episodio
+
+* Página web de Ricardo Baeza-Yates [http://baeza.cl](http://baeza.cl)
+* Artículo sobre [Sesgos en Algoritmos](http://baeza.cl/bias/sesgos-algoritmos.html) por Ricardo Baeza-Yates y Karma Peiró.
+* Artículo en ACM Communications: [Bias on the web](https://cacm.acm.org/magazines/2018/6/228035-bias-on-the-web/fulltext) por Ricardo Baeza-Yates recomendado en el episodio.
+* Biblioteca de machine learning en lenguage de programación [Julia](https://julialang.org). [MLJ](https://github.com/alan-turing-institute/MLJ.jl)
+
 ## Episodio #09 - Biomedical Data Science con Catalina Vallejos
 
 En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con [Catalina Vallejos](https://www.ed.ac.uk/mrc-human-genetics-unit/research/vallejos-group) sobre Biomedical Data Science. Catalina es doctora en estadística de la Universidad de Warwick y lidera un grupo de investigación trabajando en la intersección de temas de estadística, biología y ciencias médicas. Descubre qué es Biomedical Data Science, quiénes trabajan en esto y cómo puede beneficiarnos la investigación aplicada a la cuidado de la salud.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746994850&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-## Recomendaciones y recursos mencionados en el episodio
+### Recomendaciones y recursos mencionados en el episodio
 
 - Cuenta de twitter de [@CataVallejosM](https://twitter.com/CataVallejosM)
 - [Human Cell Atlas](https://www.humancellatlas.org)
