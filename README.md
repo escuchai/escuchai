@@ -4,7 +4,7 @@
 
 ## Lista de Episodios
 
-- [Episodio #10 - Conversación con Ricardo Baeza-Yates, experto mundial en Ciencia de Datos](#episodio-10---conversación-con-ricardo-baeza-yates--experto-mundial-en-ciencia-de-datos)
+- [Episodio #10 - Conversación con Ricardo Baeza-Yates](#episodio-10---conversación-con-ricardo-baeza-yates)
 - [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-09---biomedical-data-science-con-catalina-vallejos)
 - [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
 - [Episodio #07 - IA Explicable y actualidad en Big Data](#episodio-07---ia-explicable-y-actualidad-en-big-data)
@@ -21,7 +21,7 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
 
-## Episodio #10 - Conversación con Ricardo Baeza-Yates, experto mundial en ciencia de datos
+## Episodio #10 - Conversación con Ricardo Baeza-Yates
 
 En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con el [Dr. Ricardo Baeza-Yates](https://twitter.com/polarbearby), experto en Ciencias de Datos y autor del libro más citado en Recuperación de la Información "Modern Information Retrieval".
 
