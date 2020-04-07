@@ -25,16 +25,16 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan con el [Dr. Ricardo Baeza-Yates](https://twitter.com/polarbearby), experto en Ciencias de Datos y autor del libro más citado en Recuperación de la Información "Modern Information Retrieval".
 
-Conversamos sobre variados e interesantes temas como la evolución de la Ciencia de Datos en el tiempo, sobre sistemas justos en recomendación, Ricardo nos cuenta cómo se gestó la publicación del libro [Modern Information Retrieval](https://www.amazon.co.uk/Modern-Information-Retrieval-Concepts-Technology/dp/0321416910), sobre sesgos en los algoritmos, la importancia de aprender a aprender en el desarrollo profesional, sobre cómo hacer investigación de punta, la relevancia del pensamiento crítico para innovar, sobre ética en el trabajo con datos, y sobre estrategias nacionales de inteligencia artificial entre otros temas.
+Conversamos sobre variados e interesantes temas como la evolución de la Ciencia de Datos en el tiempo, sobre sistemas justos en recomendación, Ricardo nos cuenta cómo se gestó la publicación del libro [Modern Information Retrieval](http://grupoweb.upf.es/mir2ed/), sobre sesgos en los algoritmos, la importancia de aprender a aprender en el desarrollo profesional, sobre cómo hacer investigación de punta, la relevancia del pensamiento crítico para innovar, sobre ética en el trabajo con datos, y sobre estrategias nacionales de inteligencia artificial entre otros temas.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/792096874%3Fsecret_token%3Ds-6I3pLGT5qLo&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ### Recomendaciones y recursos mencionados en el episodio
 
-* Página web de Ricardo Baeza-Yates [http://baeza.cl](http://baeza.cl)
+* Sitio Web Personal de Ricardo Baeza-Yates [http://baeza.cl](http://baeza.cl)
 * Artículo sobre [Sesgos en Algoritmos](http://baeza.cl/bias/sesgos-algoritmos.html) por Ricardo Baeza-Yates y Karma Peiró.
-* Artículo en ACM Communications: [Bias on the web](https://cacm.acm.org/magazines/2018/6/228035-bias-on-the-web/fulltext) por Ricardo Baeza-Yates recomendado en el episodio.
-* Biblioteca de machine learning en lenguage de programación [Julia](https://julialang.org). [MLJ](https://github.com/alan-turing-institute/MLJ.jl)
+* Artículo en ACM Communications: [Bias on the web](https://cacm.acm.org/magazines/2018/6/228035-bias-on-the-web/abstract) por Ricardo Baeza-Yates recomendado en el episodio.
+* Libro de recuperación de información, [Modern Information Retrieval](http://grupoweb.upf.es/mir2ed/) (segunda edición, 2011), mencionado en el episodio.
 
 ## Episodio #09 - Biomedical Data Science con Catalina Vallejos
 
