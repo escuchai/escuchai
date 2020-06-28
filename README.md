@@ -4,6 +4,7 @@
 
 ## Lista de Episodios
 
+- [Episodio #11 - Especial sobre Inteligencia Artificial en el Cine](#episodio-11---especial-sobre-inteligencia-artificial-en-el-cine)
 - [Episodio #10 - Conversación con Ricardo Baeza-Yates](#episodio-10---conversación-con-ricardo-baeza-yates)
 - [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-09---biomedical-data-science-con-catalina-vallejos)
 - [Episodio #08 - Aprendizaje Supervisado y Usos nocivos de IA](#episodio-08---aprendizaje-supervisado-y-usos-nocivos-de-ia)
@@ -20,6 +21,27 @@
 Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EscuchAI.
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
+
+## Episodio #11 - Especial sobre Inteligencia Artificial en el Cine
+
+En este episodio especial [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) comentan películas sobre inteligencias artificiales y qué las hace interesantes. 
+
+* [2001 Odisea del espacio](www.imdb.com/title/tt0062622)
+* [Ex-machina](www.imdb.com/title/tt0470752)
+* [A.I. Artificial Intelligence](www.imdb.com/title/tt0212720)
+* [Autómata](https://www.imdb.com/title/tt1971325/)
+* [Blade Runner](www.imdb.com/title/tt0083658)
+* [Trascendence](www.imdb.com/title/tt2209764)
+* [Her](www.imdb.com/title/tt1798709)
+* [Avengers, la era de Ultrón](www.imdb.com/title/tt2395427)
+* [El Mago de Oz](www.imdb.com/title/tt0032138)
+* [Person of Interest](www.imdb.com/title/tt1839578)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/848498923&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/escuchai-escuchai" title="escuchAI" target="_blank" style="color: #cccccc; text-decoration: none;">escuchAI</a> · <a href="https://soundcloud.com/escuchai-escuchai/inteligencia-artificial-en-el-cine-y-la-tv-episodio-11" title="Inteligencia Artificial en el Cine y la TV - Episodio 11" target="_blank" style="color: #cccccc; text-decoration: none;">Inteligencia Artificial en el Cine y la TV - Episodio 11</a></div>
+
+Qué otra película recomendarías? Coméntanos en [@escuchai](https://twitter.com/escuchAI).
+
+Revisa la lista completa de recomendaciones en [nuestra lisa en IMDB](www.imdb.com/list/ls080224794).
 
 ## Episodio #10 - Conversación con Ricardo Baeza-Yates
 
