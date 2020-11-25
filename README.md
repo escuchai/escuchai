@@ -4,6 +4,7 @@
 
 ## Lista de Episodios
 
+- [Episodio #12 - Ética en Inteligencia Artificial](#-episodio-12---ética-en-inteligencia-artificial)
 - [Episodio #11 - Especial sobre Inteligencia Artificial en el Cine](#episodio-11---especial-sobre-inteligencia-artificial-en-el-cine)
 - [Episodio #10 - Conversación con Ricardo Baeza-Yates](#episodio-10---conversación-con-ricardo-baeza-yates)
 - [Episodio #09 - Biomedical Data Science con Catalina Vallejos](#episodio-09---biomedical-data-science-con-catalina-vallejos)
@@ -21,6 +22,17 @@
 Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EscuchAI.
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
+
+## Episodio #12 - Ética en Inteligencia Artificial
+
+En este episodio especial [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan sobre ética en el uso de técnicas de inteligencia artificial. Dan ejemplos de cómo el mal uso de algorirmos de IA puede impactar la vida de las personas. Analizan las causas que producen sistemas poco éticos. Y discuten lo que se está haciendo en temas de ética en IA en el mundo empresarial y académico.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/935939656&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/escuchai-escuchai" title="escuchAI" target="_blank" style="color: #cccccc; text-decoration: none;">escuchAI</a> · <a href="https://soundcloud.com/escuchai-escuchai/etica-en-el-uso-de-inteligencia-artificial-episodio-12" title="Ética en el uso de Inteligencia Artificial - Episodio 12" target="_blank" style="color: #cccccc; text-decoration: none;">Ética en el uso de Inteligencia Artificial - Episodio 12</a></div>
+
+### Recomendaciones y recursos mencionados en el episodio
+* [Repositorio de recomendaciones éticas](https://inventory.algorithmwatch.org)
+* [Curso AI para todos](https://es.coursera.org/learn/ai-for-everyone-es)
+* Libro [Armas de Destrucción Matemática](https://www.goodreads.com/book/show/38338491-armas-de-destrucci-n-matem-tica) de [Cathy O'Neil](https://twitter.com/mathbabedotorg)
 
 ## Episodio #11 - Especial sobre Inteligencia Artificial en el Cine
 
