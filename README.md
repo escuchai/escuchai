@@ -1,6 +1,8 @@
 # EscuchAI - Podcast sobre Inteligencia Artificial
 
 [![](files/spotify-podcast-badge-blk-grn-660x160.svg)](https://open.spotify.com/show/3TL2aujg5UsRD69tnTbtbj)
+<br>
+<a href="https://podcasts.apple.com/us/podcast/escuchai/id1542080256?itsct=podcast_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/en-US?size=250x83&amp;releaseDate=1606325880&h=de57a589758f7e686a368927876873f4" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 ## Lista de Episodios
 
