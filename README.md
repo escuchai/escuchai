@@ -6,6 +6,7 @@
 
 ## Lista de Episodios
 
+- [Episodio #13 - Aprendizaje No Supervisado](#Episodio-#13---Aprendizaje-No-Supervisado)
 - [Episodio #12 - Ética en Inteligencia Artificial](#episodio-12---ética-en-inteligencia-artificial)
 - [Episodio #11 - Especial sobre Inteligencia Artificial en el Cine](#episodio-11---especial-sobre-inteligencia-artificial-en-el-cine)
 - [Episodio #10 - Conversación con Ricardo Baeza-Yates](#episodio-10---conversación-con-ricardo-baeza-yates)
@@ -24,6 +25,14 @@
 Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](https://www.cs.st-andrews.ac.uk/#), Escocia, por su apoyo para EscuchAI.
 
 ![](https://blogs.cs.st-andrews.ac.uk/csblog/files/2017/05/logo_uni_cs_mintext_long.png){:height="100px"}
+
+## Episodio #13 - Aprendizaje No Supervisado
+
+En este episodio especial [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan sobre Aprendizaje No Supervisado. 
+
+### Recomendaciones y recursos mencionados en el episodio
+* Comic [Tenemos que Hablar, IA. Un ensayo en cómic sobre la Inteligencia Artificial](https://weneedtotalkai.files.wordpress.com/2020/06/wntt-espac3b1ol_cc.pdf)
+* Libro [Analítica Textual: Una Introducción a la Ciencia y Aplicaciones del Análisis de Información no Estructurada](https://www.goodreads.com/en/book/show/54478182-anal-tica-textual)
 
 ## Episodio #12 - Ética en Inteligencia Artificial
 
