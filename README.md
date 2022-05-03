@@ -6,7 +6,7 @@
 
 ## Lista de Episodios
 
-- [Episodio #13 - Aprendizaje No Supervisado](#Episodio-#13---Aprendizaje-No-Supervisado)
+- [Episodio #13 - Aprendizaje No Supervisado](#episodio-13---aprendizaje-no-supervisado)
 - [Episodio #12 - Ética en Inteligencia Artificial](#episodio-12---ética-en-inteligencia-artificial)
 - [Episodio #11 - Especial sobre Inteligencia Artificial en el Cine](#episodio-11---especial-sobre-inteligencia-artificial-en-el-cine)
 - [Episodio #10 - Conversación con Ricardo Baeza-Yates](#episodio-10---conversación-con-ricardo-baeza-yates)
