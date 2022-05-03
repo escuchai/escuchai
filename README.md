@@ -28,11 +28,15 @@ Agradecemos a la [Escuela de Computer Science de la Universidad de St Andrews](h
 
 ## Episodio #13 - Aprendizaje No Supervisado
 
-En este episodio especial [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan sobre Aprendizaje No Supervisado. 
+En este episodio [Simón](https://twitter.com/artificialsimon) y [Diego](https://twitter.com/darenasc) conversan sobre Aprendizaje No Supervisado. Discuten algunas de las técnicas más utilizadas como clustering y algoritmos de recomendación.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1261584211&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/escuchai-escuchai" title="escuchAI" target="_blank" style="color: #cccccc; text-decoration: none;">escuchAI</a> · <a href="https://soundcloud.com/escuchai-escuchai/aprendizaje-no-supervisado-episodio-13" title="Aprendizaje No Supervisado - Episodio 13" target="_blank" style="color: #cccccc; text-decoration: none;">Aprendizaje No Supervisado - Episodio 13</a></div>
 
 ### Recomendaciones y recursos mencionados en el episodio
 * Comic [Tenemos que Hablar, IA. Un ensayo en cómic sobre la Inteligencia Artificial](https://weneedtotalkai.files.wordpress.com/2020/06/wntt-espac3b1ol_cc.pdf)
 * Libro [Analítica Textual: Una Introducción a la Ciencia y Aplicaciones del Análisis de Información no Estructurada](https://www.goodreads.com/en/book/show/54478182-anal-tica-textual)
+* Sitio web [Spurious Correlations](https://tylervigen.com/spurious-correlations) donde se pueden ver distintas correlaciones sin sentido.
+* Paper de Geoff Hinton en revista Science [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf).
 
 ## Episodio #12 - Ética en Inteligencia Artificial
 
